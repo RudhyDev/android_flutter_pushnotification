@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1015954935418",
+    "project_id": "pushnotification-firebas-53270",
+    "storage_bucket": "pushnotification-firebas-53270.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015954935418:android:2aad1c5ad3ca2e2d8475c3",
+        "android_client_info": {
+          "package_name": "com.br.rudhydevflutter.android_flutter_pushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlGYzepqIRfQGryEJKm-25Fnt2b1W2uNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
