@@ -14,7 +14,6 @@ class NotificationPage extends StatelessWidget {
       body: Column(children: [
         Text(message.notification!.title!.toString()),
         Text(message.notification!.body!.toString()),
-        Text(message.data.toString()),
       ]),
     );
   }
